@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif"
 
 ## **ABOUT ME** 🙋🏻‍♀️
-- My journey to becoming a Data Analyst began with my love for Excel
+- My Data Analyst journey began with my love for Excel 😍
 - I completed the Google Data Analytics Certificate in March 2022
-- I am currently living in Singapore
-- I love travelling, cooking, baking and knitting
+- I am currently living in Singapore 🇸🇬
+- I love travelling ✈️, cooking 👩🏻‍🍳, baking 🧁 and knitting 🧶
      
 #### **TOOLS AND SKILLS**
-- Microsoft Excel: Data cleaning and data manipulation
+- Microsoft Excel: Data cleaning and data manipulation, pivot tables.
 - SQL (SQLite Studio, PostgreSQL): ETL, Data analytics using advanced SQL queries.
 - Tableau: Data Visualisation, Dashboard design and development
 
@@ -17,8 +17,8 @@
 - To complete Danny Ma's [#8weekSQLchallenge](https://8weeksqlchallenge.com/resources/)
 - To learn **Power Bi and Statistics**
 
-#### **How to reach me**
-   iamlauren.son@gmail.com
+#### **HOW TO REACH ME**
+ 📧 iamlauren.son@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
